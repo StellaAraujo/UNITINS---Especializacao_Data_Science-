@@ -17,8 +17,6 @@ print(alunos[0])
 print(len(alunos))
 
 #Fatiar
-print(alunos[1:3])  
-
-
+print(alunos[1:3])
 
 
